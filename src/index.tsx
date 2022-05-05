@@ -78,7 +78,3 @@ export function TakeHome() {
 }
 const rootElement = document.getElementById("root");
 render(<TakeHome />, rootElement);
-
-
-//https://stackoverflow.com/questions/39426083/update-react-component-every-second
-//https://stackoverflow.com/questions/61461518/javascript-how-prevent-dblclick-double-click-to-also-fire-a-single-click-even
